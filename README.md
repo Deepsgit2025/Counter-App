@@ -21,11 +21,11 @@ Counter-App/
 
 What I Learned
 
-Selecting elements using getElementById
-Handling button click events with onclick
-Updating text using textContent
-Managing state using variables
-Understanding how JavaScript interacts with the DOM
+1.Selecting elements using getElementById
+2.Handling button click events with onclick
+3.Updating text using textContent
+4.Managing state using variables
+5.Understanding how JavaScript interacts with the DOM
 
 
 
